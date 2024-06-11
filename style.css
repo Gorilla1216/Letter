@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("/6707.jpg") no-repeat center center/cover;
+}
+.letter {
+  padding: 80px 160px;
+}
+p {
+  font-size: 1.5rem;
+  color: #333;
+  font-family: "Roboto", sans-serif;
+}
+a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: auto;
+}
